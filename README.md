@@ -1,0 +1,2 @@
+# svminer
+Miner Good Day
